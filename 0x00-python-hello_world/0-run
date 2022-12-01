@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`echo $PYFILE | grep -o | wc -l`+ 2))
+python3 $PYFILE

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo((`echo $PYCODE | grep -o "*.py" | wc -l`+ 2))
+python3 -c "$PYCODE"
