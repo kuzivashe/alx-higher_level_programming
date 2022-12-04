@@ -9,4 +9,5 @@ number.
 Print all the letters except q and e.
 4. Write a program that prints all numbers from 0 to 98in decimal and in hexadecimal(as in
 the following example).
-5.
+5. Write a program prints numbera from 0 to 99. Numbers must be seperated by , ,followed by
+a space.
