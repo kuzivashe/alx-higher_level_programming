@@ -8,7 +8,7 @@ let x = 0;
 x = process.argv[2];
 x = parseInt(x);
 if (x) {
-  console.log('My number:' + x);
+  console.log('My number: ' + x);
 } else {
   console.log('Not a number');
 }
