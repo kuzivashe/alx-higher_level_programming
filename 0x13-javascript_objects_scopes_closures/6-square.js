@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /* create Square class that inherits from 5-square */
-const Squares = require('./5-rectangle');
+const Squares = require('./5-square');
 module.exports = class Square extends Squares {
   charPrint (c = 'X') {
     let row = '';
