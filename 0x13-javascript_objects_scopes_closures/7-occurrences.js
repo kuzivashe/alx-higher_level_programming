@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /* create a number of occurrences function */
-exports.nbOccurrences = function (list, searchElement) {
+exports.nbOccurences = function (list, searchElement) {
   const limit = list.length;
   let result = 0;
   for (let i = 0; i < limit; i++) {
